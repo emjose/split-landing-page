@@ -88,10 +88,11 @@ body {
 }
 
 .text .subtitle {
-  font-size: 1.15em;
+  font-size: 1.5em;
+  font-family: futura-pt, sans-serif;
   text-transform: uppercase;
   color: #fff;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .text .title {
@@ -107,15 +108,6 @@ body {
   margin-top: 10px;
 }
 
-.text .desc {
-  font-size: 14px;
-  color: #fff;
-  font-weight: 300;
-  line-height: 2;
-  margin: 10px 0 30px 0;
-  width: 400px;
-}
-
 .text .button {
   font-size: 1.25vw;
   color: #fff;
@@ -124,6 +116,7 @@ body {
   background: transparent;
   border: #fff solid 3px;
   height: 3rem;
+  text-transform: uppercase;
   text-align: center;
   font-weight: 700;
   width: 70%;
@@ -131,6 +124,34 @@ body {
   cursor: pointer;
   outline: none;
   border-radius: 100px;
+}
+
+#left-button {
+  background: #ffae0071;
+}
+
+#left-button:hover {
+  background-color: #0192cc;
+}
+
+#left-button:active {
+  background-color: #0192cc;
+
+  transform: translateY(6px);
+}
+
+#right-button {
+  background: #0192cc70;
+}
+
+#right-button:hover {
+  background-color: #0192cc;
+}
+
+#right-button:active {
+  background-color: #0192cc;
+
+  transform: translateY(6px);
 }
 
 .hover-left .split.left .text {
