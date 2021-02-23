@@ -37,20 +37,21 @@ body {
 
 .split.left {
   left: 0;
-  background: #ffa100;
+  background: #ffae00;
 }
 
+/* #ffbb00; */
 .split.right {
   right: 0;
   background: #0192cc;
 }
 
 .hover-left .split.left {
-  width: 60%;
+  width: 70%;
 }
 
 .hover-left .split.right {
-  width: 40%;
+  width: 30%;
 }
 
 .hover-right .split.right {
@@ -87,20 +88,19 @@ body {
 }
 
 .text .subtitle {
-  font-size: 16px;
+  font-size: 1.15em;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 2px;
 }
 
 .text .title {
-  font-size: 5vw;
+  font-size: 4.5vw;
   color: #fff;
   text-transform: uppercase;
   font-family: futura-pt, sans-serif;
   font-weight: 800;
   font-style: normal;
-  font-style: italic;
   line-height: 1;
   letter-spacing: 5px;
   margin-top: 10px;
