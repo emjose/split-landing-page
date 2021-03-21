@@ -57,8 +57,7 @@
 
 <a href=#table-of-contents>![Demos](Assets/inter-resources.png)</a>  
 
-test\
-test
+<a href=#resources>![under construction](Assets/lorem-text.png)</a>
 
 #
 
