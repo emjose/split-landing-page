@@ -26,6 +26,7 @@
 - [Installation](#installation) 
 - [Live Site](#live-site)
 - [Resources](#resources)
+- [Animal Rescue](#animal-rescue)
 - [Let's Connect!](#lets-connect) 
 
 #
@@ -34,7 +35,12 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 18: February 25, 2021
+- I'm a proud <a href="https://www.instagram.com/cocodottie/">dog dad</a>, and I'm an advocate for animal rescue.
+
+- For Day 18, I made a split landing page with a pet adoption theme.
+  
+- For this project, I used a free trial of Canva.com to render transparent backgrounds for pet images, and I also did some minor edits with <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwiUscDUvNHvAhWJhMgKHfDpCEgYABAJGgJxdQ&ae=2&sig=AOD64_0apHaBpru1RH1_qzDgEM1z6rzddw&q&adurl&ved=2ahUKEwiR0LfUvNHvAhW8FVkFHQKHDd8Q0Qx6BAgEEAE">Adobe Photoshop</a>.
 
 #
 
@@ -57,7 +63,7 @@ open index.html
 
 <a href="https://emjose.github.io/split-landing-page/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/split-landing-page/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/split-landing-page/">![Live Site](Assets/018-split.gif)</a>
 
 #
 
@@ -65,7 +71,35 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Canva](https://www.canva.com/)
+
+- #### [Unsplash](https://unsplash.com/)
+
+- #### [Google Fonts](https://fonts.google.com/)
+
+- #### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html?sdid=KKQIN&mv=search&kw=photoshop&ef_id=CjwKCAjwr_uCBhAFEiwAX8YJgVeO0EDcnfVsroxAv6afMhKn7RYzXmRKIr2RbOnUHZhyO_2yv1-OTRoCwK0QAvD_BwE:G:s&s_kwcid=AL!3085!3!356475371248!e!!g!!adobe%20photoshop&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgVeO0EDcnfVsroxAv6afMhKn7RYzXmRKIr2RbOnUHZhyO_2yv1-OTRoCwK0QAvD_BwE)
+
+- #### [Adobe Photoshop for Students](http://www.adobe-students.com/creativecloud/buy/students.html?kw=ps&sdid=KKTGX&mv=search&ef_id=CjwKCAjwr_uCBhAFEiwAX8YJgbZ5cqIOhkH_Te2PZ7my32Okk7Z0SCZUCy3tiejS5FvoKq9tpwbdDxoCPJoQAvD_BwE:G:s&s_kwcid=AL!3085!3!367440345311!e!!g!!adobe%20photoshop)
+
+- #### [Split Landing Page Tutorial 1](https://youtu.be/DvwP5Vz4y4Q) by [codicts](https://www.youtube.com/channel/UCItYqcz88SDtWMZ---R492g)
+
+- #### [Split Landing Page Tutorial 2](https://youtu.be/oRmQN244Ir0) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+#
+
+<p id="animal-rescue"><p>
+
+<a href=#animal-rescue>![Animal Rescue](Assets/inter-animal-rescue.png)</a>  
+
+- #### [Petfinder](https://www.petfinder.com/)
+
+- #### [Adopt a Pet](https://www.adoptapet.com/)
+
+- #### [The Shelter Pet Project](https://theshelterpetproject.org/)
+
+- #### [North Shore Animal League](https://www.animalleague.org/)
+
+- #### [ASPCA: The American Society for the Prevention of Cruelty to Animals®](https://www.aspca.org/)
 
 #
 
