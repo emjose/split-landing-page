@@ -39,8 +39,8 @@
 - I'm a proud <a href="https://www.instagram.com/cocodottie/">dog dad</a>, and I'm an advocate for animal rescue.
 
 - For Day 18, I made a split landing page with a pet adoption theme.
-  
-- For this project, I used a free trial of Canva.com to render transparent backgrounds for pet images, and I also did some minor edits with <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwiUscDUvNHvAhWJhMgKHfDpCEgYABAJGgJxdQ&ae=2&sig=AOD64_0apHaBpru1RH1_qzDgEM1z6rzddw&q&adurl&ved=2ahUKEwiR0LfUvNHvAhW8FVkFHQKHDd8Q0Qx6BAgEEAE">Adobe Photoshop</a>.
+
+- For this project, I used a free trial of <a href="https://www.canva.com/">Canva</a> to render transparent backgrounds for the images, and I also did some minor edits with <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwiUscDUvNHvAhWJhMgKHfDpCEgYABAJGgJxdQ&ae=2&sig=AOD64_0apHaBpru1RH1_qzDgEM1z6rzddw&q&adurl&ved=2ahUKEwiR0LfUvNHvAhW8FVkFHQKHDd8Q0Qx6BAgEEAE">Adobe Photoshop</a>.
 
 #
 
