@@ -85,6 +85,8 @@ open index.html
 
 - #### [Split Landing Page Tutorial 2](https://youtu.be/oRmQN244Ir0) by [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
+- #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
+
 #
 
 <p id="animal-rescue"><p>
