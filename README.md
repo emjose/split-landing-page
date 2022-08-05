@@ -51,13 +51,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/split-landing-page.git && cd split-landing-page
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
