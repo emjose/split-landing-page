@@ -29,6 +29,8 @@
 -   [Animal Rescue](#animal-rescue)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -42,6 +44,8 @@
 -   For Day 18, I made a split landing page with a pet adoption theme.
 
 -   For this project, I used a free trial of <a href="https://www.canva.com/">Canva</a> to render transparent backgrounds for the images, and I also did some minor edits with <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwiUscDUvNHvAhWJhMgKHfDpCEgYABAJGgJxdQ&ae=2&sig=AOD64_0apHaBpru1RH1_qzDgEM1z6rzddw&q&adurl&ved=2ahUKEwiR0LfUvNHvAhW8FVkFHQKHDd8Q0Qx6BAgEEAE">Adobe Photoshop</a>.
+
+<br>
 
 #
 
@@ -61,6 +65,8 @@ git clone git@github.com:emjose/split-landing-page.git && cd split-landing-page
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -68,6 +74,12 @@ open index.html
 <a href="https://emjose.github.io/split-landing-page/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/split-landing-page/">![Live Site](Assets/018-split.gif)</a>
+
+• The **[Split Landing Page](https://emjose.github.io/split-landing-page/)** is best viewed on a desktop or laptop computer browser.
+
+• The **[Split Landing Page](https://emjose.github.io/split-landing-page/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
 
 #
 
@@ -91,6 +103,8 @@ open index.html
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
 
+<br>
+
 #
 
 <p id="animal-rescue"><p>
@@ -106,6 +120,8 @@ open index.html
 -   #### [North Shore Animal League](https://www.animalleague.org/)
 
 -   #### [ASPCA: The American Society for the Prevention of Cruelty to Animals®](https://www.aspca.org/)
+
+<br>
 
 #
 
